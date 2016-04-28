@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./davidisbuchanan00irvigoog_0022.png"; bbox 0 0 4448 5964; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 945 2266 1011 2340">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 945 2266 1011 2340">
+     <span class='ocr_line' id='line_1_1' title="bbox 945 2266 1011 2340; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 945 2266 1011 2340; x_wconf 88' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 324 2634 1634 2760">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 324 2634 1634 2760">
+     <span class='ocr_line' id='line_1_2' title="bbox 324 2634 1634 2760; baseline 0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 324 2640 1159 2758; x_wconf 86' lang='lat' dir='ltr'>SCRIPTORIBUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1251 2634 1634 2760; x_wconf 84' lang='lat' dir='ltr'>SCOTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 772 3042 1193 3128">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 772 3042 1193 3128">
+     <span class='ocr_line' id='line_1_3' title="bbox 772 3042 1193 3128; baseline -0.005 -2"><span class='ocrx_word' id='word_1_4' title='bbox 772 3042 975 3128; x_wconf 86' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1013 3042 1193 3126; x_wconf 91' lang='lat' dir='ltr'><strong>UNUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2228 5956">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2228 5956">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2228 5956; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2228 5956; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
